@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TockerTest.API", "TockerTest.API\TockerTest.API.csproj", "{E6F610D3-BD0F-47E5-9B81-5B9D9680CEE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TockerTest.Testing", "TockerTest.Testing\TockerTest.Testing.csproj", "{42C69484-37BE-498D-86F5-D3D840077112}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{8E989D1B-9EFE-4617-9E24-9F81437391F0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Arquitectura.pptx = ..\..\..\Desktop\Arquitectura.pptx
+		..\..\..\Desktop\Documentacion TockerTest.md = ..\..\..\Desktop\Documentacion TockerTest.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F610D3-BD0F-47E5-9B81-5B9D9680CEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F610D3-BD0F-47E5-9B81-5B9D9680CEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F610D3-BD0F-47E5-9B81-5B9D9680CEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F610D3-BD0F-47E5-9B81-5B9D9680CEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C69484-37BE-498D-86F5-D3D840077112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C69484-37BE-498D-86F5-D3D840077112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C69484-37BE-498D-86F5-D3D840077112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C69484-37BE-498D-86F5-D3D840077112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07644BE6-0499-4476-A305-5B7338B5E4D0}
+	EndGlobalSection
+EndGlobal
